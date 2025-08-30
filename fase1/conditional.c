@@ -51,5 +51,5 @@ int main() {
 		default:
 			printf("Não foi determinado o valor de val3.\n");
 	}
-	return 1;
+	return 0;
 }

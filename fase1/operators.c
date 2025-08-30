@@ -46,5 +46,5 @@ int main() {
 	printf("| 0 | 0 |   0    |   0    | 1  | 1  |\n");
 	printf("=====================================\n");
 	printf("\n");
-	return 1;
+	return 0;
 }
